@@ -54,4 +54,12 @@ httpd.serve_forever()
 ```
 ## OUTPUT:
 
+### Server Side Output:
+
+![Server Side Output](./images/serversideoutput.png)
+
+### Client Side Output:
+
+![Client Side Output](./images/clientsideoutput.png)
+ 
 ## RESULT:
